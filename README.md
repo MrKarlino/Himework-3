@@ -10,7 +10,7 @@
 
 ## Результаты
 
-Была найдена ошибка: https://github.com/MrKarlino/Money-Transfer/issues/1
+Была найдена ошибка в подсчете итогового баланса: https://github.com/MrKarlino/Money-Transfer/issues/1
 
 ## Общие рекомендации
 
